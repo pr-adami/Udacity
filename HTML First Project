@@ -1,0 +1,89 @@
+<!-- Começando meu projeto... -->
+<head>
+  <!-- Aqui vou colocar o título do meu site-->
+  <title>Pedro's Note</title>
+</head>
+
+
+<h1>Um Breve Resumo</h1>
+
+<body>
+<div>
+<span style="color:green"><b> 1. World Wide Web</b></span>
+
+  <p> - Composta principalmente por documentos <b> HTML</b>(<em>Hypertext Markup Language</em>).</p>
+  <p> - Tem entre seus componentes: <b> cliente</b>(<em>computador e navegador</em>), <b> internet</b> e <b> servidores</b>.</p>
+  <p> - <b>Clientes</b> e <b>Servidores</b> interagem atraves do <b>HTTP</b>(<em>Hypertext Transfer Protocol</em>).</p>
+</div>
+
+
+<div>
+<span style="color:blue"><b>2. HTML</b></span>
+
+<p> Formado por:<br><br> - <b>Conteudo de texto</b> - <em>O que vemos</em><br><br>- <b>Markup</b> - <em>Aparencia desse conteudo</em><br><br> <b> - Referencias a outros documentos</b> -
+<em>por exemplo imagens e videos</em><br><br> - <b>Links para outras paginas</b>
+</div>
+
+<div>
+<b><span style="color:red">3. Tags(Elementos) HTML:</span></b>
+<p><em>Utilizados para dizer ao navegador como mostrar o conteudo da pagina</em></p>
+
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<TAG DE ABERTURA>conteudo</TAG DE FECHAMENTO>"></p>
+
+<p><em><span style="color:purple">--- "b" tag :</span></em><p>
+
+<p><em> Conteudo fica em negrito</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<b> exemplo </b>"></p>
+
+<p><em><span style="color:purple">---- "em" tag :</span></em><p>
+
+<p><em> Conteudo fica em italico</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<em>exemplo</em>"></p>
+</div>
+
+<div>
+<b><span style="color:orange">4. Atributos HTML:</span></b>
+<p><em>Carregam informacao adicional para o navegador</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<TAG ATTR=valor>conteudo</TAG>"></p>
+
+
+<p><em><span style="color:gray">--- "anchor" tag :</span></em><p>
+
+<p><em>Define um hyperlink</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<a href=URL>conteudo</a>"></p>
+
+<p><em><span style="color:gray">--- "image" tag :</span></em><p>
+
+<p><em>Define uma imagem</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<img src=URL alt=texto>"></p>
+
+<p><em><span style="color:gray">--- "br" tag :</span></em><p>
+
+<p><em>Recurso para ter multiplas linhas</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="Este texto tem<br> uma quebra de linha"></p>
+
+<p><em><span style="color:gray">--- "p" tag :</span></em><p>
+
+<p><em>Define um paragrafo</em></p>
+<p> - <b>Estrutura</b> =<br> <img src="" alt="<p> texto </p>"></p>
+</div>
+
+<br>
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/LYDNZAzOqrez6/giphy.gif" alt="Aplausos - FIM" height="500" width="500">
+
+<br>
+<br>
+<br>
+<br>
+
+<b> Bibliografia:</b><br>
+<br>
+- <a href="https://www.w3schools.com">w3schools</a><br>
+<br>
+- <a href="https://www.udacity.com">Udacity</a><br>
+<br>
+- <a href="https://giphy.com/">Giphy</a><br>
+</body>
